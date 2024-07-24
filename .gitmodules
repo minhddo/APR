@@ -1,0 +1,9 @@
+[submodule "Datasets"]
+	path = Datasets
+	url = git@github.com:minhddo/Datasets.git
+[submodule "DiffTool"]
+	path = DiffTool
+	url = git@github.com:minhddo/DiffTool.git
+[submodule "ParsingTheorems"]
+	path = ParsingTheorems
+	url = git@github.com:minhddo/ParsingTheorems.git
