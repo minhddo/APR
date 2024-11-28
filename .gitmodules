@@ -3,7 +3,7 @@
 	url = git@github.com:minhddo/Datasets.git
 [submodule "DiffTool"]
 	path = DiffTool
-	url = git@github.com:minhddo/DiffTool.git
+	url = git@github.com:minhddo/DiffToolModded.git
 [submodule "ParsingTheorems"]
 	path = ParsingTheorems
 	url = git@github.com:minhddo/ParsingTheorems.git
